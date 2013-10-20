@@ -41,7 +41,7 @@ module.exports = function(options, callback) {
 /**
  * Report error.
  */
-var onError = function(msg) {
+var onError = function(msg, callback) {
     if (yahoo.logging) {
         console.log('ERROR: ' + msg);
     }
