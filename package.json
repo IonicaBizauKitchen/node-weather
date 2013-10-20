@@ -7,7 +7,7 @@
     "geolocation"
   ],
   "author": "Chris Campbell <chris@harto.org>",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "xml2js": "0.1.13",
     "request": "2.9.153"
