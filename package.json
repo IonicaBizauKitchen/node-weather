@@ -1,5 +1,5 @@
 {
-  "name": "weather",
+  "name": "johnnys-weather",
   "description": "Yahoo weather API wrapper for node",
   "tags": [
     "weather",
